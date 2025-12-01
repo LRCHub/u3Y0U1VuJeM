@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "DDU-DU DDU-DU (Remix)",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-01T02:57:46.838104Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_DDU-DU_DDU-DU_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_DDU-DU_DDU-DU_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU - Live",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_DDU-DU_DDU-DU_-_Live_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU - Remix",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_DDU-DU_DDU-DU_-_Remix_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "뚜두뚜두 (DDU-DU DDU-DU)",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/05_뚜두뚜두_(DDU-DU_DDU-DU)_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DDU‐DU DDU‐DU",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/06_DDU‐DU_DDU‐DU_BLACKPINK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DDU‐DU DDU‐DU (remix)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_DDU‐DU_DDU‐DU_(remix)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "뚜두뚜두 DDU-DU DDU-DU",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_뚜두뚜두_DDU-DU_DDU-DU_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU - Japanese Version",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_DDU-DU_DDU-DU_-_Japanese_Version_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "뚜두뚜두 (DDU‐DU DDU‐DU) (remix)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_뚜두뚜두_(DDU‐DU_DDU‐DU)_(remix)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/11_DDU-DU_DDU-DU_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/12_DDU-DU_DDU-DU_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU (Remix)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/13_DDU-DU_DDU-DU_(Remix)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "뚜두뚜두 (DDU-DU DDU-DU) (remix)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/14_뚜두뚜두_(DDU-DU_DDU-DU)_(remix)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ddu-Du Ddu-Du",
+      "artist": "Emma Heesters feat. Ysabelle Cuevas",
+      "has_synced": false,
+      "path": "select/15_Ddu-Du_Ddu-Du_Emma_Heesters_feat._Ysabelle_Cuevas.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "DDU DDU-DU (Remix Version) - Live",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/16_DDU_DDU-DU_(Remix_Version)_-_Live_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "DDU DDU-DU (Remix Version) (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/17_DDU_DDU-DU_(Remix_Version)_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU",
+      "artist": "Kairo Mouse",
+      "has_synced": true,
+      "path": "select/18_DDU-DU_DDU-DU_Kairo_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/19_DDU-DU_DDU-DU_-_JP_Ver.__BLACKPINK_2019-2020_WORLD_TOUR_IN_YOUR_AREA_-TOKYO_DOME_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "DDU-DU DDU-DU (Japan Version / BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/20_DDU-DU_DDU-DU_(Japan_Version___BLACKPINK_2019-2020_WORLD_TOUR_IN_YOUR_AREA_-TOKY_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "DDU-DU DDU-DU (Remix)",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_DDU-DU_DDU-DU_(Remix)_BLACKPINK.txt"
+    }
+  ]
+}
